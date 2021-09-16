@@ -1,4 +1,4 @@
-# pratice3
+# practice3
 
 ## Project setup
 ```
